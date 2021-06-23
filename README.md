@@ -3,4 +3,4 @@ Omega Landing page
 
 ✅ Responsive
 
-site overview - 
+site overview - https://omegalandingpage.netlify.app/
